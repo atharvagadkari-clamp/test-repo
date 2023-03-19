@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">Clamp</h1>
-        <p className="hero__subtitle">Building a crypto portfolio is finally simple and easy</p>
+        <p className="hero__subtitle">Building a crypto portfolio is finally simple and easy.</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
